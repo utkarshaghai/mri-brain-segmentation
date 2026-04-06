@@ -1,0 +1,30 @@
+ø# Data & Archives
+data/*.tar
+data/Task01_BrainTumour/
+data/images/*.nii.gz
+data/labels/*.nii.gz
+*.nii
+*.nii.gz
+
+# Trained Models
+*.pth
+*.pt
+results/models/*.pth
+
+# Cache & Temp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+results/metrics/*.csv
+results/figures/tmp_*
+
+# Environments & IDE
+venv/
+env/
+.conda/
+.vscode/
+.idea/
+*.swp
+
