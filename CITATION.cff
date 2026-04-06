@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "mri-brain-segmentation"
+authors:
+  - family-names: Gaiha
+    given-names: Utkarsha
+version: 1.0.0
+date-released: 2026-04-06
+license: MIT
+url: "https://github.com/utkarshaghai/mri-brain-segmentation"
+abstract: "Reproducible 3D brain tumor segmentation pipeline using MONAI & PyTorch with comprehensive metrics (Dice, HD95, ASD)."
+
